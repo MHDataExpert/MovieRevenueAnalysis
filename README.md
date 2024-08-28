@@ -8,6 +8,13 @@ We aim to identify the factors that affect a film's revenue and develop a formul
 
 - Does the genre of a film influence its revenue?
 - What is the best season for a movie release?
+- Which themes are the most popular among top-grossing movies?
+
+**Data Source
+
+This project utilizes a dataset from The Movie Database (TMDb), which provides comprehensive information about several thousand films, including plot details, cast, crew, budgets, and revenues.
+This dataset was chosen due to its rich and detailed data fields, which are essential for analyzing the factors that contribute to a film's success.
+
 
 
 
