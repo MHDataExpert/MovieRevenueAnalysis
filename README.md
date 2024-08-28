@@ -10,18 +10,22 @@ We aim to identify the factors that affect a film's revenue and develop a formul
 - What is the best season for a movie release?
 - Which themes are the most popular among top-grossing movies?
 
-**Data Source
+## Data Source
 
-This project utilizes a dataset from The Movie Database (TMDb), which provides comprehensive information about several thousand films, including plot details, cast, crew, budgets, and revenues.
+This project utilizes a dataset from [**The Movie Database (TMDb)**](https://www.themoviedb.org/), which provides comprehensive information about several thousand films, including plot details, cast, crew, budgets, and revenues.  
 This dataset was chosen due to its rich and detailed data fields, which are essential for analyzing the factors that contribute to a film's success.
 
+## Dataset Columns
 
-
-
-
-
-
-
-
-
-
+- **homepage**: The official homepage of the movie.  
+- **id**: The unique identifier for the movie in TMDb.  
+- **original_title**: The original title of the movie.  
+- **overview**: A brief summary of the movie's plot.  
+- **popularity**: A measure of the movie's popularity.  
+- **production_companies**: Companies involved in the production of the movie.  
+- **production_countries**: Countries where the movie was produced.  
+- **release_date**: The release date of the movie.  
+- **spoken_languages**: Languages spoken in the movie.  
+- **status**: The current status of the movie (e.g., released, post-production).  
+- **tagline**: The movie's tagline.  
+- **vote_average**: The average rating of the movie based on user votes.
